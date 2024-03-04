@@ -35,8 +35,6 @@
                 <box size="0.4 0.4 0.12"/>
             </geometry>
             <material name="white"/>
-            
-            </material>
         </visual>
     </link>
     
